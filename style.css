@@ -1,0 +1,30 @@
+h3 {
+    color: rgba(112, 110, 110, 0.795);
+}
+
+html {
+    background-color: rgb(187, 185, 185);
+}
+
+title {
+    color: beige;
+}
+
+h1 {
+    color: rgba(83, 4, 4, 0.945);
+    background-color: rgb(247, 186, 186);
+}
+
+ul {
+    color: rgba(87, 86, 86, 0.795);
+}
+
+a {
+    color: darkgreen;
+    background-color: rgb(161, 250, 161);
+
+}
+h2 {
+    color: rgba(202, 202, 6, 0.815);
+    background-color: rgb(255, 255, 187);
+}
